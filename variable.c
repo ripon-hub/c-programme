@@ -4,8 +4,8 @@ int abc = 100;
 int main() {
    
     
-    int a = 50;
-    int b = 30;
+    int a = 250;
+    int b = 230;
     int c;
     c = 500;
     c = 100;
